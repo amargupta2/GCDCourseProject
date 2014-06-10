@@ -63,8 +63,7 @@ For Step 2, my script:
 1) Builds the second dataset requested by the assignment using melt and dcast. 
 This dataset follows tidy guidelines as described further below.
 
-2) Writes this data frame to a CSV file named tidyds.csv for easy opening in 
-MS Excel.
+2) Writes this data frame to a tab-delimited txt file named tidyds.txt.
 
 The data frame tidyds contains the mean for each variable left in the dataset 
 after the manipulations performed in Step 1 above by subject and activity 

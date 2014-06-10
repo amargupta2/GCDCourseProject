@@ -23,8 +23,8 @@ as described by the assignment instructions. Heavily commented.
 3) CodeBook.md - Describes the final two datasets as well as the process 
 performed to derive them.
 
-4) tidyds.csv - A CSV file containing the second dataset specified in the 
-assignment instructions.
+4) tidyds.txt - A txt file containing the second dataset specified in the 
+assignment instructions, tab-delimited.
 
 
 ==================================================================

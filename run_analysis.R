@@ -56,4 +56,4 @@ temp = melt(combineddf, measure.vars = column_names[3:length(column_names)], id 
 tidyds = dcast(temp, subject + activity ~ variable, mean)
 
 ## Output second dataset
-write.table(tidyds, file = "tidyds.csv", row.names = FALSE, sep = ",")
+write.table(tidyds, file = "tidyds.txt", row.names = FALSE, sep = "\t")
