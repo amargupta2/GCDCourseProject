@@ -47,5 +47,5 @@ will attempt to load it).
 
 At completion, the first dataset will be named "combineddf" and the second 
 will be named "tidyds". The script will also output tidyds to a file named 
-"tidyds.csv", which is identical to the file named "tidyds.csv" that is 
+"tidyds.txt", which is identical to the file named "tidyds.txt" that is 
 available in the author's Github repository.
